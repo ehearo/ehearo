@@ -2,23 +2,24 @@
 
 ![](https://github.com/ehearo/ehearo/blob/main/icons/catbanner10-smaller.jpg)
 
-I make elegantly professional **💻 Distributed Infrastructure, 📱 Dapp 🪙 NFT and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I am professional Progammer **💻 C#, 📱 DotNet MVC  Dapper and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 🧐   Interested in full stack. Recent focus on Backend.
+* 💼   I am  Full Stack Engineer at EsunBank.
+* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.0/4.0, TOP 5%.
+* 🌱   Currently learning Vue, Stock, Math & Philosophy.
+* 📚   Reading 《Think fast》《Clean Code》.
+* 💻   With 4 years' computer science and technology education and 3 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.55 million PV / 4.26 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my Notion.
 
 
 
--->
+
+
 
 <!--
-**halfrost/ehearo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ehearo/ehearo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
