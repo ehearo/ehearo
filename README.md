@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/ehearo/ehearo/blob/main/icons/header_1.png)
+![](https://github.com/ehearo/ehearo/blob/main/icons/catbanner10-smaller.jpg)
 
 I make elegantly professional **💻 Distributed Infrastructure, 📱 Dapp 🪙 NFT and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
