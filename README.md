@@ -13,14 +13,6 @@ I make elegantly professional **💻 Distributed Infrastructure, 📱 Dapp 🪙 
 * ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.55 million PV / 4.26 million UV).
 
-<details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
-
-* 💖   Be proud of CMU. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
-
 
 
 -->
